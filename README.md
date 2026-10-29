@@ -1,6 +1,6 @@
 # 🧠 Data-Driven Education: Identifying At-Risk Cohorts for Wellness Interventions
 
-📄 **[Click here to view the full PDF Report exported from DataLab](workspace/Datacamp-Analyzing%20Student's%20Mental%20Health_2.pdf)**
+📄 **[Click here to view the full PDF Report exported from DataLab](workspace/Datacamp-Analyzing%20Student's%20Mental%20Health.pdf)**
 
 ## 📌 Executive Summary
 This project analyzes the psychological impact of studying abroad on international students. Using **PostgreSQL**, I queried and aggregated mental health survey data to uncover how the length of stay correlates with depression (PHQ), social connectedness (SCS), and acculturative stress (AS). The primary objective is to provide actionable data for university administrations to optimize the allocation of student wellness resources.
